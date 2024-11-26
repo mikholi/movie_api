@@ -1,5 +1,6 @@
 {
   "name": "movie_api",
+  "type":"module",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,9 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^4.21.1",
-    "nodemon": "^3.1.7"
-  }
+  "description": ""
 }
