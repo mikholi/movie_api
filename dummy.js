@@ -1,5 +1,8 @@
 import express from 'express';
 import { Pool } from 'pg';
+import dotenv from 'dotenv'
+
+dotenv.config();
 
 const app = express();
 
