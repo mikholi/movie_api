@@ -41,7 +41,10 @@ INSERT INTO moviesID (moviesName, moviesYear, genresID) VALUES
 ('Lord of the Rings: The Return of the King', 2003, 6),
 ('Alien Romulus', 2024, 3),
 ('Terminator 2', 1991, 1),
-('Predator', 1987, 1);
+('Predator', 1987, 1),
+('The Exorcist', 1973, 3),
+('The Naked Gun: From the Files of Police Squad!
+', 1988, 2);
 
 
 CREATE TABLE reviewID (
